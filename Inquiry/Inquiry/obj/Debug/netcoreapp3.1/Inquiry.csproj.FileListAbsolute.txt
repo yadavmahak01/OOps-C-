@@ -1,0 +1,16 @@
+C:\Users\91870\source\repos\OOps-C-\Inquiry\Inquiry\bin\Debug\netcoreapp3.1\Inquiry.exe
+C:\Users\91870\source\repos\OOps-C-\Inquiry\Inquiry\bin\Debug\netcoreapp3.1\Inquiry.deps.json
+C:\Users\91870\source\repos\OOps-C-\Inquiry\Inquiry\bin\Debug\netcoreapp3.1\Inquiry.runtimeconfig.json
+C:\Users\91870\source\repos\OOps-C-\Inquiry\Inquiry\bin\Debug\netcoreapp3.1\Inquiry.runtimeconfig.dev.json
+C:\Users\91870\source\repos\OOps-C-\Inquiry\Inquiry\bin\Debug\netcoreapp3.1\Inquiry.dll
+C:\Users\91870\source\repos\OOps-C-\Inquiry\Inquiry\bin\Debug\netcoreapp3.1\Inquiry.pdb
+C:\Users\91870\source\repos\OOps-C-\Inquiry\Inquiry\obj\Debug\netcoreapp3.1\Inquiry.csprojAssemblyReference.cache
+C:\Users\91870\source\repos\OOps-C-\Inquiry\Inquiry\obj\Debug\netcoreapp3.1\Inquiry.Form1.resources
+C:\Users\91870\source\repos\OOps-C-\Inquiry\Inquiry\obj\Debug\netcoreapp3.1\Inquiry.Properties.Resources.resources
+C:\Users\91870\source\repos\OOps-C-\Inquiry\Inquiry\obj\Debug\netcoreapp3.1\Inquiry.csproj.GenerateResource.cache
+C:\Users\91870\source\repos\OOps-C-\Inquiry\Inquiry\obj\Debug\netcoreapp3.1\Inquiry.AssemblyInfoInputs.cache
+C:\Users\91870\source\repos\OOps-C-\Inquiry\Inquiry\obj\Debug\netcoreapp3.1\Inquiry.AssemblyInfo.cs
+C:\Users\91870\source\repos\OOps-C-\Inquiry\Inquiry\obj\Debug\netcoreapp3.1\Inquiry.csproj.CoreCompileInputs.cache
+C:\Users\91870\source\repos\OOps-C-\Inquiry\Inquiry\obj\Debug\netcoreapp3.1\Inquiry.dll
+C:\Users\91870\source\repos\OOps-C-\Inquiry\Inquiry\obj\Debug\netcoreapp3.1\Inquiry.pdb
+C:\Users\91870\source\repos\OOps-C-\Inquiry\Inquiry\obj\Debug\netcoreapp3.1\Inquiry.genruntimeconfig.cache
